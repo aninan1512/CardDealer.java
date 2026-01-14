@@ -66,6 +66,3 @@ The layout is simple, centered, and easy to use.
 - User feedback when the deck is empty
 
 ---
-
-## 📂 Project Structure
-
